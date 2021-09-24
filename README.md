@@ -1,1 +1,1 @@
-# IMED1316-images
+# imed316-images
